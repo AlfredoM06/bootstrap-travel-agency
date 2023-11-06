@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.p-cards {
+    padding: 0px;
+}
+
+img {
+    width: 380px;
+    height: 415px;
+}
